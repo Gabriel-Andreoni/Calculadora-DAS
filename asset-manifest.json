@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/calculadora-das/static/css/main.829870eb.css",
+    "main.js": "/calculadora-das/static/js/main.fe75bb57.js",
+    "static/js/787.cfc79990.chunk.js": "/calculadora-das/static/js/787.cfc79990.chunk.js",
+    "static/media/tax.png": "/calculadora-das/static/media/tax.86c8a9ba44815c2d9899.png",
+    "static/media/foto-saiba-mais.png": "/calculadora-das/static/media/foto-saiba-mais.659f999e49ee302fba27.png",
+    "static/media/down-arrow.png": "/calculadora-das/static/media/down-arrow.bc5f449b8afdf93789b9.png",
+    "static/media/up-arrow.png": "/calculadora-das/static/media/up-arrow.b421327d66045e28bfa0.png",
+    "static/media/left-arrow.png": "/calculadora-das/static/media/left-arrow.d09a7be3f2ec229b8854.png",
+    "index.html": "/calculadora-das/index.html",
+    "main.829870eb.css.map": "/calculadora-das/static/css/main.829870eb.css.map",
+    "main.fe75bb57.js.map": "/calculadora-das/static/js/main.fe75bb57.js.map",
+    "787.cfc79990.chunk.js.map": "/calculadora-das/static/js/787.cfc79990.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.829870eb.css",
+    "static/js/main.fe75bb57.js"
+  ]
+}
