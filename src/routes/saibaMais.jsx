@@ -26,22 +26,22 @@ function saibaMais() {
 
                     <p>Para saber qual Alíquota se encontra seu faturamento, consulte abaixo os seguintes links:
                         <li>
-                            <a href="https://www.jornalcontabil.com.br/wp-content/uploads/2019/03/anexo1simples2019-1024x423.png.webp" rel="external" target="_blank">I - Comércio</a>
+                            <a href="https://www.jornalcontabil.com.br/wp-content/uploads/2019/03/anexo1simples2019-1024x423.png.webp">I - Comércio</a>
                         </li>
                         <li>
-                            <a href="https://www.jornalcontabil.com.br/wp-content/uploads/2019/03/anexo2simples2019-1024x423.png.webp" rel="external" target="_blank">II - Indústria</a>
+                            <a href="https://www.jornalcontabil.com.br/wp-content/uploads/2019/03/anexo2simples2019-1024x423.png.webp">II - Indústria</a>
 
                         </li>
                         <li>
-                            <a href="https://www.jornalcontabil.com.br/wp-content/uploads/2019/03/anexo3simples2019-1024x423.png.webp" rel="external" target="_blank">III - Prestação de Serviço</a>
+                            <a href="https://www.jornalcontabil.com.br/wp-content/uploads/2019/03/anexo3simples2019-1024x423.png.webp">III - Prestação de Serviço</a>
 
                         </li>
                         <li>
-                            <a href="https://www.jornalcontabil.com.br/wp-content/uploads/2019/03/anexo4simples2019-1024x423.png.webp" rel="external" target="_blank">IV - Prestação de Serviço</a>
+                            <a href="https://www.jornalcontabil.com.br/wp-content/uploads/2019/03/anexo4simples2019-1024x423.png.webp">IV - Prestação de Serviço</a>
 
                         </li>
                         <li>
-                            <a href="https://www.jornalcontabil.com.br/wp-content/uploads/2019/03/anexo5simples2019-1024x423.png.webp" rel="external" target="_blank">V - Prestação de Serviço</a>
+                            <a href="https://www.jornalcontabil.com.br/wp-content/uploads/2019/03/anexo5simples2019-1024x423.png.webp">V - Prestação de Serviço</a>
 
                         </li>
                     </p>
@@ -52,23 +52,23 @@ function saibaMais() {
                     <p>Para saber qual valor correspondente, consulte abaixo os seguintes links:
 
                         <li>
-                            <a href="https://www.jornalcontabil.com.br/wp-content/uploads/2019/03/anexo1simples2019-1024x423.png.webp" rel="external" target="_blank">I - Comércio</a>
+                            <a href="https://www.jornalcontabil.com.br/wp-content/uploads/2019/03/anexo1simples2019-1024x423.png.webp">I - Comércio</a>
                         </li>
 
                         <li>
-                            <a href="https://www.jornalcontabil.com.br/wp-content/uploads/2019/03/anexo2simples2019-1024x423.png.webp" rel="external" target="_blank">II - Indústria</a>
+                            <a href="https://www.jornalcontabil.com.br/wp-content/uploads/2019/03/anexo2simples2019-1024x423.png.webp">II - Indústria</a>
                         </li>
 
                         <li>
-                            <a href="https://www.jornalcontabil.com.br/wp-content/uploads/2019/03/anexo3simples2019-1024x423.png.webp" rel="external" target="_blank">III - Prestação de Serviço</a>
+                            <a href="https://www.jornalcontabil.com.br/wp-content/uploads/2019/03/anexo3simples2019-1024x423.png.webp">III - Prestação de Serviço</a>
                         </li>
 
                         <li>
-                            <a href="https://www.jornalcontabil.com.br/wp-content/uploads/2019/03/anexo4simples2019-1024x423.png.webp" rel="external" target="_blank">IV - Prestação de Serviço</a>
+                            <a href="https://www.jornalcontabil.com.br/wp-content/uploads/2019/03/anexo4simples2019-1024x423.png.webp">IV - Prestação de Serviço</a>
                         </li>
 
                         <li>
-                            <a href="https://www.jornalcontabil.com.br/wp-content/uploads/2019/03/anexo5simples2019-1024x423.png.webp" rel="external" target="_blank">V - Prestação de Serviço</a>
+                            <a href="https://www.jornalcontabil.com.br/wp-content/uploads/2019/03/anexo5simples2019-1024x423.png.webp">V - Prestação de Serviço</a>
                         </li>
 
                     </p>
