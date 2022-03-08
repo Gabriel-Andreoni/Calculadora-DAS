@@ -14,8 +14,8 @@ ReactDOM.render(
   <React.StrictMode>
     <BrowserRouter>
       <Routes>
-        <Route path="/" element={<App />} />
-        <Route path="saibaMais" element={<SaibaMais />} />
+        <Route path="/calculadora-das" element={<App />} />
+        <Route path="/calculadora-das/routes/saibaMais" element={<SaibaMais />} />
       </Routes>
     </BrowserRouter>
 

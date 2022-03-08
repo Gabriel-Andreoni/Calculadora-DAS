@@ -119,7 +119,7 @@ function saibaMais() {
             </section>
 
             <button className="goBack">
-                    <Link to="../"><img src={leftArrow} alt="" /></Link>
+                    <Link to="/calculadora-das/"><img src={leftArrow} alt="" /></Link>
                 </button>
         </div>
     )

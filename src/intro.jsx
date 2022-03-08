@@ -13,7 +13,7 @@ function Intro() {
                                 <a href="#faturamentoMensal">Calcular DAS</a>
                             </button>
                             <button className="containerIntroBtn">
-                                <Link to="/saibaMais">Saiba Mais</Link>
+                                <Link to="/calculadora-das/routes/saibaMais">Saiba Mais</Link>
                             </button>
                         </article>
                     </section>
